@@ -9,5 +9,12 @@ számítógép tervezése
     alkalmazásának logikáját, a programtárolást, a memória használatot, illetve az utasítás rendszert.
     Mai napig ezen elv alapján gyártják a számítógépeket. 1944 és -52 között részt vett az 
     az EDVAC számítógép tervezésében is, az első számítógépet, 
-    amely már memóriában tárolta a programokat.
+    amely már memóriában tárolta a programokat. 
+    1945-ben     
+        Neumann-elv:
+            telsjesen elektronikus számítógép
+            kettes számrendszer alkalmazása
+            aritmetikai egység alkalmazása (univerzális Turing-gép)
+            központi vezérlőegység alkalmazása
+            belső program- és adattárolás
 
