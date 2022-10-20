@@ -9,3 +9,6 @@ body{
     background-color: rgba(245, 245, 245, 0.5);
     
 }
+.container-fluid>nav:first-child{
+    background-color: #01395e;
+}
