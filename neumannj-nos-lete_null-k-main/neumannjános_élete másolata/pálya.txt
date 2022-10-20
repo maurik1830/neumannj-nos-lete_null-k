@@ -6,11 +6,11 @@ Mannhattan terv
 számítógép tervezése
     Neumann János kiemelkedő érdemeket szerzett a számítógép logikájának a megalkotásában.
     Ő alkotta meg a Neumann-elvet, amely magába foglalja a kettes számrendszer
-    alkalmazásának logikáját, a programtárolást, a memória használatot, illetve az utasítás rendszert.
+    alkalmazásának logikáját, a programtárolást, a memória használatot, illetve az utasítási rendszert.
     Mai napig ezen elv alapján gyártják a számítógépeket. 1944 és -52 között részt vett az 
-    az EDVAC számítógép tervezésében is, az első számítógépet, 
+    az EDVAC számítógép tervezésében is, az első számítógép, 
     amely már memóriában tárolta a programokat. 
-    1945-ben     
+       
         Neumann-elv:
             telsjesen elektronikus számítógép
             kettes számrendszer alkalmazása
