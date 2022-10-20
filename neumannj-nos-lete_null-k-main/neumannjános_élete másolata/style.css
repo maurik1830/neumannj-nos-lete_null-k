@@ -2,13 +2,23 @@
 body{
     font-family: 'Share Tech Mono', monospace;
     background-image: url(/Képek/neuamannjanos_hatter.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
 
 }
 .container{
-    background-color: whitesmoke;
+    
     background-color: rgba(245, 245, 245, 0.5);
     
 }
-.container-fluid>nav:first-child{
+.container-fluid>nav{
     background-color: #01395e;
+}
+footer{
+    margin-top: 100px;
+}
+p, ul{
+    font-size: 25px;
 }
