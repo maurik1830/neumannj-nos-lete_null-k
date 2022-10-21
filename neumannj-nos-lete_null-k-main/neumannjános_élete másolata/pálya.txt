@@ -5,7 +5,10 @@ Kvantummechanika
     ügyét. Könyvében elmagyarázta, hogy a kvantummechanika bizonyos téynezőkben eltér 
     a rendes mechanikától. Bell-elméletein keresztül és Alain Aspect kísérletei
     segítségével, bebizoynította hogy a kvantummechanika telsjesen más valóságképet
-    igényel mint a klasszikus fizika 
+    igényel mint a klasszikus fizika. 
+    
+    
+    
 
 Mannhattan terv
 	Einstein mellett még Neumann Jánosnak is része volt a Mannhattan-tervben. 
