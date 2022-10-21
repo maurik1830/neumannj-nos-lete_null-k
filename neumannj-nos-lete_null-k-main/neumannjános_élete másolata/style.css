@@ -15,6 +15,7 @@ body{
 }
 .container-fluid>nav{
     background-color: #01395e;
+    color: white;
 }
 footer{
     margin-top: 200px;
@@ -25,6 +26,7 @@ p, ul{
 .boxshadow{
     box-shadow: 10px 10px 50px grey;
 }
-#kep:first-child{
-    height: 175px;
+img:first-child{
+    height: 200px;
+    margin-left: 100px;
 }
