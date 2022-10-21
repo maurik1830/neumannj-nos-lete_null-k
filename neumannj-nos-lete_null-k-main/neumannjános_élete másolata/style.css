@@ -22,3 +22,9 @@ footer{
 p, ul{
     font-size: 25px;
 }
+.boxshadow{
+    box-shadow: 10px 10px 50px grey;
+}
+#kep:first-child{
+    height: 175px;
+}
