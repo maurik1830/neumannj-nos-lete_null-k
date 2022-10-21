@@ -1,6 +1,11 @@
 Kvantummechanika
     A kvantummechanika létfontosságú szerepet töltött be Neumann János pályafutása
-    során. 
+    során. Neumann absztrakt kezelési módja a kvantummechanika terén lehetővé
+    tette hogy szembeállítsa a determinizmus és a nem determinisztikus állapot
+    ügyét. Könyvében elmagyarázta, hogy a kvantummechanika bizonyos téynezőkben eltér 
+    a rendes mechanikától. Bell-elméletein keresztül és Alain Aspect kísérletei
+    segítségével, bebizoynította hogy a kvantummechanika telsjesen más valóságképet
+    igényel mint a klasszikus fizika 
 
 Mannhattan terv
 	Einstein mellett még Neumann Jánosnak is része volt a Mannhattan-tervben. 
