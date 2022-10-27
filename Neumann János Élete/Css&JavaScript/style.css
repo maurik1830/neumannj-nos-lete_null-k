@@ -14,7 +14,7 @@ body{
     
 }
 .container-fluid>nav{
-    background-color: #01395e;
+    
     color: white;
 }
 footer{
@@ -31,5 +31,7 @@ img:first-child{
     margin-left: 100px;
 }
 #kep1{
+    margin-right: 30px;
+    margin-left: 30px;
     padding: 0px;
 }
