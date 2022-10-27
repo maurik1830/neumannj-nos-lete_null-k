@@ -4,7 +4,7 @@ h1, h2{
     text-align: center;
 }
 body{
-    background-image: url(./Képek/maganeletHatter.png);
+    background-image: url(../Képek/maganeletHatter.png);
     background-size: cover;
     color: white;
 }

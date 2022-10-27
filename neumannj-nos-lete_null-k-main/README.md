@@ -1,2 +1,0 @@
-# neumannjánosélete_nullák
- 

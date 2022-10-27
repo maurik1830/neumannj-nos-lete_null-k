@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 body{
     font-family: 'Share Tech Mono', monospace;
-    background-image: url(/Képek/neuamannjanos_hatter.png);
+    background-image: url(../Képek/neuamannjanos_hatter.png);
     background-repeat: no-repeat;
     background-size: cover;
 
