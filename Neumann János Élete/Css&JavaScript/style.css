@@ -36,8 +36,19 @@ img:first-child{
     padding: 0px;
 }
 
+
+img{
+    border-radius: 20px;
+
+}
+#manhattan, #comp{
+    margin:auto;
+}
 #bev{
     font-variant: small-caps;
     text-align: justify;
     font-size: 25px;
+}
+.card{
+    border-radius: 10px;
 }
